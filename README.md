@@ -1,6 +1,6 @@
-### LAKLAK-Multithreaded and Multiuser Application
+# LAKLAK-Multithreaded and Multiuser Application
 
- # Socket Programming
+ ### Socket Programming
  
 In this project, I developed a messaging server and client using socket programming. In this system, there are multiple clients and a single server. Clients communicate with servers with LIST, LOGIN, LOGOUT, MSG, INFO and REGISTER commands.
 
